@@ -1,0 +1,76 @@
+  1 git init
+   2 git clone https://github.com/Aslihan0/asligit
+   3 git fetch
+   4 git merge
+   5 git add .
+   6 git fetch origin
+   7 git commit -m " ASLIHAN GT 101git olarak deiştirildi"
+   8 git push origin main
+   9 git push origin master
+  10 git remote add origin https://github.com/Aslihan0/asligit.git
+  11 git push -u origin master
+  12 git pull origin master
+  13 git push -u origin master
+  14 git push -f origin master
+  15 vi hakkimda.html
+  16 git status
+  17 git checkout -b feature_hakkimda
+  18 git branch
+  19 git add hakkimda.html
+  20 git commit -m " hakkimda.html eklendi"
+  21 git status
+  22 git add .
+  23 git status
+  24 git commit -m "hakkimda.html eklendi"
+  25 git chechkout master
+  26 git status
+  27 git add .
+  28 git checkout  asli/hakkimizda
+  29 git chechkout -b feature_asli
+  30 git checkout -b feature_asli
+  31 git checkout
+  32 git branch
+  33 git add hakkimda.html
+  34 git add .
+  35 ls
+  36 git commit -m "hakkimda eklendi"
+  37 git branch
+  38 git status
+  39 git push origin master
+  40 git checkout master
+  41 git push origin master feature_hakkimda
+  42 git checkout master feature_asli
+  43 git checkout master
+  44 git status
+  45 git checkout -b feature_asli
+  46 git checkout -b feature_asli
+  47 git branch
+  48 git checkout feature_asli
+  49 git branch
+  50 git add hakkimda.html
+  51 git add .
+  52 git commit -m "hakkimda eklendi"
+  53 git branch
+  54 git status
+  55 git push -f origin master
+  56 git push -u origin master
+  57 git checkout master
+  58 git checkout master feature_asli
+  59 git chechkout feature_asli
+  60 git checkout feature_asli
+  61 git checkout feature_hakkimda
+  62 git checkout feature_asli
+  63 git checkout feature_hakkimda
+  64 git checkout feature_hakkimda
+  65 git checkout feature_asli
+  66 git checkout master
+  67 git checkout feature_asli
+  68 git checkout feature_hakkimda
+  69 git checkout master
+  70 git merge feature_hakkimda
+  71 git status
+  72 git add .
+  73 git commit -m "hakkimızda branchi merge edildi"
+  74 git push -f origin master
+  75 git push -f origin feature_hakkimda
+  76 git push -f origin feature_asli
